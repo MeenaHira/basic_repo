@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* border: 1px pink solid;  */
+}
+#Container-of-Portfolio{
+    width: 970px;
+    background-color: rgb(88, 27, 75); 
+    margin: auto; 
+    font-family: sans-serif;
+    border: 1px rgb(35, 2, 37) solid;
+}
+#About{
+    background: rgb(174, 134, 177);
+    margin: 15px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#about-me-section{
+    padding: 20px;
+    margin: 10px;
+} 

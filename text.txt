@@ -1,0 +1,14 @@
+1) Create a new repo on GitHub and call it basic_repo
+2)Create a local repository also called basic_repo
+In Certain location(In this case its Documents/Coding Dojo/Week 5)
+ mkdir basic_repo
+3)Create some files inside your local repo and add some content on them
+touch index.html
+touch styles.css
+touch text.txt
+git init
+4) git add .
+5) git status
+6) git commit -m "First Github commit" 
+7) git remote add origin https://github.com/MeenaHira/basic_repo
+8) git push origin 

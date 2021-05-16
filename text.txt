@@ -12,3 +12,7 @@ git init
 6) git commit -m "First Github commit" 
 7) git remote add origin https://github.com/MeenaHira/basic_repo
 8) git push origin 
+9) Made some more changes to the local copy of index.html file and push them to GitHub
+10) Git add .
+11) git commit -m "updated index.html"
+12) git push
